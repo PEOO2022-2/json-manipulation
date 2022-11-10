@@ -1,0 +1,9 @@
+[ {
+  "cpf" : "123.456.789-00",
+  "nome" : "Drica",
+  "dataNascimento" : "22/01/1998"
+}, {
+  "cpf" : "987.654.321-00",
+  "nome" : "Denis",
+  "dataNascimento" : "11/04/1998"
+} ]
